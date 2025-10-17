@@ -1,6 +1,8 @@
 # PE-CoA
 Code Implementation of "Pattern Enhanced Multi-Turn Jailbreaking: Exploiting Structural Vulnerabilities in Large Language Models"
 
+The full paper is available at: [https://arxiv.org/pdf/2510.08859](https://arxiv.org/pdf/2510.08859)
+
 # Chain of Attack Setup Instructions
 
 ## Installation
